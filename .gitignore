@@ -1,4 +1,22 @@
-.venv/
+# Python cache and compiled files
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore output files
 risk_scored_alerts.csv
+Figure_*.png
+soc_risk_dashboard_*.png
