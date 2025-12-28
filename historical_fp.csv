@@ -1,0 +1,5 @@
+﻿alert_type,historical_false_positive_rate
+Brute Force,0.3
+PowerShell,0.55
+Malware,0.1
+Login Anomaly,0.5

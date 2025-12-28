@@ -1,0 +1,6 @@
+﻿alert_id,timestamp,alert_type,confidence_score,asset_id,user_id,threat_severity
+A001,2025-01-10 10:32,Brute Force,0.85,AS01,U01,High
+A002,2025-01-10 10:35,PowerShell,0.6,AS02,U02,Medium
+A003,2025-01-10 10:40,Malware,0.9,AS03,U01,Critical
+A004,2025-01-10 10:45,Login Anomaly,0.55,AS02,U03,Medium
+A005,2025-01-10 10:50,Brute Force,0.7,AS01,U04,High

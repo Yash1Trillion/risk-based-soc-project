@@ -1,0 +1,5 @@
+﻿user_id,role,privilege_level,department
+U01,Admin,5,IT
+U02,Standard User,2,HR
+U03,Standard User,2,Finance
+U04,Service Account,4,Infrastructure

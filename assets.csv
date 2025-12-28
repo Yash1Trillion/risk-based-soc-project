@@ -1,0 +1,4 @@
+﻿asset_id,asset_type,business_criticality,data_sensitivity
+AS01,Domain Controller,5,High
+AS02,Workstation,2,Low
+AS03,Database Server,4,High
